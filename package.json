@@ -1,0 +1,22 @@
+{
+  "name": "skku-mminy-stat",
+  "version": "0.0.1",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mminy62/skku-mminy-stat.git"
+  },
+  "bin": {
+    "skku-mminy-stat": "./main.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mminy62/skku-mminy-stat/issues"
+  },
+  "homepage": "https://github.com/Mminy62/skku-mminy-stat#readme"
+}
